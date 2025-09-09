@@ -1,0 +1,433 @@
+<html><head><title>Validation Report</title></head><body>
+<style>
+body { font-family: 'Segoe UI', sans-serif; background-color: #f0fff4; color: #333; padding: 20px; }
+h1 { color: #2e7d32; }
+details { background-color: #e6f4ea; margin: 10px 0; padding: 10px; border-radius: 8px; }
+summary { font-weight: bold; cursor: pointer; }
+table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+th, td { border: 1px solid #999; padding: 8px; text-align: left; }
+th { background-color: #a5d6a7; color: #000; }
+</style>
+<h1>Data Validation Report</h1><details><summary>Missing Values (87 rows)</summary><p><b>Total:</b> 87</p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>id</th>
+      <th>date</th>
+      <th>shelter_name</th>
+      <th>city</th>
+      <th>state</th>
+      <th>total_capacity</th>
+      <th>occupied_beds</th>
+      <th>available_beds</th>
+      <th>occupancy_rate</th>
+      <th>average_age</th>
+      <th>male_percentage</th>
+      <th>female_percentage</th>
+      <th>season</th>
+      <th>notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>27</td>
+      <td>2024-10-26</td>
+      <td>Second Chance</td>
+      <td>Phoenix</td>
+      <td>AZ</td>
+      <td>151</td>
+      <td>96</td>
+      <td>55</td>
+      <td>63.6</td>
+      <td>27</td>
+      <td>54</td>
+      <td>46</td>
+      <td>Winter</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>2025-02-07</td>
+      <td>Recovery Residence</td>
+      <td>San Jose</td>
+      <td>CA</td>
+      <td>91</td>
+      <td>15</td>
+      <td>76</td>
+      <td>16.5</td>
+      <td>62</td>
+      <td>66</td>
+      <td>34</td>
+      <td>Autumn</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>2025-07-10</td>
+      <td>Pathway Place</td>
+      <td>Chicago</td>
+      <td>IL</td>
+      <td>298</td>
+      <td>233</td>
+      <td>65</td>
+      <td>78.2</td>
+      <td>36</td>
+      <td>41</td>
+      <td>59</td>
+      <td>Summer</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>2025-05-29</td>
+      <td>Recovery Residence</td>
+      <td>New York</td>
+      <td>NY</td>
+      <td>286</td>
+      <td>202</td>
+      <td>84</td>
+      <td>70.6</td>
+      <td>20</td>
+      <td>51</td>
+      <td>49</td>
+      <td>Spring</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>2025-04-19</td>
+      <td>New Beginnings</td>
+      <td>Los Angeles</td>
+      <td>CA</td>
+      <td>153</td>
+      <td>100</td>
+      <td>53</td>
+      <td>65.4</td>
+      <td>60</td>
+      <td>42</td>
+      <td>58</td>
+      <td>Spring</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table><p>...and more rows not shown</p></details><details><summary>Duplicate Rows</summary><p>No Duplicate Rows found.</p></details><details><summary>Negative Values</summary><p>No Negative Values found.</p></details><details><summary>Outliers (5 rows)</summary><p><b>Total:</b> 5</p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>id</th>
+      <th>date</th>
+      <th>shelter_name</th>
+      <th>city</th>
+      <th>state</th>
+      <th>total_capacity</th>
+      <th>occupied_beds</th>
+      <th>available_beds</th>
+      <th>occupancy_rate</th>
+      <th>average_age</th>
+      <th>male_percentage</th>
+      <th>female_percentage</th>
+      <th>season</th>
+      <th>notes</th>
+      <th>issue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>544</td>
+      <td>2024-01-12</td>
+      <td>Sunrise Shelter</td>
+      <td>Phoenix</td>
+      <td>AZ</td>
+      <td>294</td>
+      <td>294</td>
+      <td>0</td>
+      <td>100.0</td>
+      <td>64</td>
+      <td>55</td>
+      <td>45</td>
+      <td>Summer</td>
+      <td>Staff shortage</td>
+      <td>occupied_beds_outlier</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>2023-12-23</td>
+      <td>Harbor Home</td>
+      <td>Chicago</td>
+      <td>IL</td>
+      <td>300</td>
+      <td>8</td>
+      <td>292</td>
+      <td>2.7</td>
+      <td>45</td>
+      <td>63</td>
+      <td>37</td>
+      <td>Autumn</td>
+      <td>Under inspection</td>
+      <td>available_beds_outlier</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>2024-06-24</td>
+      <td>Pathway Place</td>
+      <td>San Jose</td>
+      <td>CA</td>
+      <td>297</td>
+      <td>1</td>
+      <td>296</td>
+      <td>0.3</td>
+      <td>37</td>
+      <td>44</td>
+      <td>56</td>
+      <td>Spring</td>
+      <td>No issues reported</td>
+      <td>available_beds_outlier</td>
+    </tr>
+    <tr>
+      <td>212</td>
+      <td>2023-10-13</td>
+      <td>Shelter Plus</td>
+      <td>Philadelphia</td>
+      <td>PA</td>
+      <td>288</td>
+      <td>3</td>
+      <td>285</td>
+      <td>1.0</td>
+      <td>60</td>
+      <td>57</td>
+      <td>43</td>
+      <td>Winter</td>
+      <td>Recently renovated</td>
+      <td>available_beds_outlier</td>
+    </tr>
+    <tr>
+      <td>731</td>
+      <td>2024-04-17</td>
+      <td>New Beginnings</td>
+      <td>San Antonio</td>
+      <td>TX</td>
+      <td>299</td>
+      <td>6</td>
+      <td>293</td>
+      <td>2.0</td>
+      <td>28</td>
+      <td>67</td>
+      <td>33</td>
+      <td>Summer</td>
+      <td>Recently renovated</td>
+      <td>available_beds_outlier</td>
+    </tr>
+  </tbody>
+</table></details><details><summary>Invalid Categories (87 rows)</summary><p><b>Total:</b> 87</p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>id</th>
+      <th>date</th>
+      <th>shelter_name</th>
+      <th>city</th>
+      <th>state</th>
+      <th>total_capacity</th>
+      <th>occupied_beds</th>
+      <th>available_beds</th>
+      <th>occupancy_rate</th>
+      <th>average_age</th>
+      <th>male_percentage</th>
+      <th>female_percentage</th>
+      <th>season</th>
+      <th>notes</th>
+      <th>issue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>27</td>
+      <td>2024-10-26</td>
+      <td>Second Chance</td>
+      <td>Phoenix</td>
+      <td>AZ</td>
+      <td>151</td>
+      <td>96</td>
+      <td>55</td>
+      <td>63.6</td>
+      <td>27</td>
+      <td>54</td>
+      <td>46</td>
+      <td>Winter</td>
+      <td>NaN</td>
+      <td>notes_invalid_category</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>2025-02-07</td>
+      <td>Recovery Residence</td>
+      <td>San Jose</td>
+      <td>CA</td>
+      <td>91</td>
+      <td>15</td>
+      <td>76</td>
+      <td>16.5</td>
+      <td>62</td>
+      <td>66</td>
+      <td>34</td>
+      <td>Autumn</td>
+      <td>NaN</td>
+      <td>notes_invalid_category</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>2025-07-10</td>
+      <td>Pathway Place</td>
+      <td>Chicago</td>
+      <td>IL</td>
+      <td>298</td>
+      <td>233</td>
+      <td>65</td>
+      <td>78.2</td>
+      <td>36</td>
+      <td>41</td>
+      <td>59</td>
+      <td>Summer</td>
+      <td>NaN</td>
+      <td>notes_invalid_category</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>2025-05-29</td>
+      <td>Recovery Residence</td>
+      <td>New York</td>
+      <td>NY</td>
+      <td>286</td>
+      <td>202</td>
+      <td>84</td>
+      <td>70.6</td>
+      <td>20</td>
+      <td>51</td>
+      <td>49</td>
+      <td>Spring</td>
+      <td>NaN</td>
+      <td>notes_invalid_category</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>2025-04-19</td>
+      <td>New Beginnings</td>
+      <td>Los Angeles</td>
+      <td>CA</td>
+      <td>153</td>
+      <td>100</td>
+      <td>53</td>
+      <td>65.4</td>
+      <td>60</td>
+      <td>42</td>
+      <td>58</td>
+      <td>Spring</td>
+      <td>NaN</td>
+      <td>notes_invalid_category</td>
+    </tr>
+  </tbody>
+</table><p>...and more rows not shown</p></details><details><summary>ML Anomalies (17 rows)</summary><p><b>Total:</b> 17</p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>id</th>
+      <th>date</th>
+      <th>shelter_name</th>
+      <th>city</th>
+      <th>state</th>
+      <th>total_capacity</th>
+      <th>occupied_beds</th>
+      <th>available_beds</th>
+      <th>occupancy_rate</th>
+      <th>average_age</th>
+      <th>male_percentage</th>
+      <th>female_percentage</th>
+      <th>season</th>
+      <th>notes</th>
+      <th>issue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>23</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>271</td>
+      <td>271</td>
+      <td>0</td>
+      <td>100.0</td>
+      <td>30</td>
+      <td>44</td>
+      <td>56</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>ML_anomaly</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>273</td>
+      <td>266</td>
+      <td>7</td>
+      <td>97.4</td>
+      <td>63</td>
+      <td>52</td>
+      <td>48</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>ML_anomaly</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>287</td>
+      <td>274</td>
+      <td>13</td>
+      <td>95.5</td>
+      <td>51</td>
+      <td>50</td>
+      <td>50</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>ML_anomaly</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>274</td>
+      <td>269</td>
+      <td>5</td>
+      <td>98.2</td>
+      <td>57</td>
+      <td>52</td>
+      <td>48</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>ML_anomaly</td>
+    </tr>
+    <tr>
+      <td>544</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>294</td>
+      <td>294</td>
+      <td>0</td>
+      <td>100.0</td>
+      <td>64</td>
+      <td>55</td>
+      <td>45</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>ML_anomaly</td>
+    </tr>
+  </tbody>
+</table><p>...and more rows not shown</p></details><details><summary>JSON Rule Violations</summary><p>No JSON Rule Violations found.</p></details></body></html>

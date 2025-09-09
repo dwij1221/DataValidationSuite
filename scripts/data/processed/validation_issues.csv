@@ -1,0 +1,240 @@
+Invoice_ID,Customer_Name,Phone_Number,City,Product_Type,Issue_Reported,Purchase_Date,Warranty_Status,Service_Call_Count,Amount_Received,Payment_Mode,Customer_Type,Service_Engineer,Feedback_Rating,Next_Service_Due,issue
+WM20252000,Customer1,9746317213,Gandhinagar,Commercial Meter,,2023-04-13,Expired,4,17228,Cash,Existing,Rohit Patel,5.0,2026-06-14,
+WM20252001,Customer2,7478163327,Gandhinagar,Industrial Meter,,2024-03-11,Expired,4,5743,Credit Card,New,Karan Joshi,1.0,2026-08-07,
+WM20252006,Customer7,7599310825,Jamnagar,Commercial Meter,Calibration Error,2024-12-01,Active,3,24206,Credit Card,Existing,,1.0,2026-11-01,
+WM20252008,Customer9,9906402157,Bhavnagar,Industrial Meter,,2024-09-06,Expired,5,17333,Net Banking,Existing,,3.0,2026-10-16,
+WM20252012,Customer13,8812140441,Ahmedabad,Domestic Meter,,2023-11-27,Active,4,8918,Cash,Existing,Viral Mehta,5.0,2026-03-20,
+WM20252013,Customer14,7136505587,Ahmedabad,Commercial Meter,No Display,2024-04-03,Active,5,23987,Net Banking,Existing,Manan Shah,,2025-11-21,
+WM20252015,Customer16,7402418010,Ahmedabad,Industrial Meter,Damaged Casing,2024-01-08,,3,15198,Net Banking,New,Pooja Desai,,2025-07-02,
+WM20252017,Customer18,7999270936,Bhavnagar,Commercial Meter,Battery Issue,2025-05-21,Active,1,17929,Credit Card,New,,1.0,2026-03-11,
+WM20252018,Customer19,9170484433,Jamnagar,Commercial Meter,,2024-10-25,Active,3,20782,Credit Card,Existing,,1.0,2026-09-26,
+WM20252019,Customer20,9585650756,Bhavnagar,Commercial Meter,No Display,2023-05-11,Active,2,6001,Cash,New,,3.0,2025-08-06,
+WM20252024,Customer25,9340505846,Vadodara,Commercial Meter,Damaged Casing,2024-05-06,,0,14194,Net Banking,New,Pooja Desai,5.0,2026-01-24,
+WM20252026,Customer27,7946785248,Rajkot,Domestic Meter,,2025-03-16,,3,23046,UPI,Existing,Manan Shah,2.0,2026-08-08,
+WM20252029,Customer30,8194819984,Bhavnagar,Commercial Meter,,2023-10-04,Active,2,21472,Net Banking,New,Karan Joshi,4.0,2025-10-28,
+WM20252035,Customer36,8193448329,Ahmedabad,Domestic Meter,Calibration Error,2025-01-17,Active,0,19083,Cash,New,Rohit Patel,,2025-10-20,
+WM20252038,Customer39,8445662585,Vadodara,Commercial Meter,Damaged Casing,2024-04-19,Expired,3,10110,UPI,Existing,,3.0,2025-10-07,
+WM20252039,Customer40,7438989805,Jamnagar,Domestic Meter,Battery Issue,2023-02-28,Expired,0,9057,Cash,Existing,,4.0,2025-11-30,
+WM20252049,Customer50,9303082117,Bhavnagar,Commercial Meter,Slow Reading,2024-07-20,Expired,2,12262,Cash,Existing,Rohit Patel,,2026-08-05,
+WM20252054,Customer55,8259191105,Bhavnagar,Industrial Meter,,2024-04-29,Expired,5,13643,Net Banking,New,Rohit Patel,4.0,2025-07-22,
+WM20252057,Customer58,8553210608,Surat,Commercial Meter,Leakage,2023-01-21,Active,0,24027,Credit Card,New,Karan Joshi,,2026-06-30,
+WM20252059,Customer60,7825873196,Jamnagar,Domestic Meter,Battery Issue,2023-06-16,Expired,4,10944,Credit Card,Existing,Rohit Patel,,2026-04-09,
+WM20252060,Customer61,7298737106,Jamnagar,Industrial Meter,,2023-10-01,Expired,2,19114,Credit Card,Existing,Rohit Patel,1.0,2025-07-27,
+WM20252063,Customer64,7978815630,Surat,Domestic Meter,No Display,2023-11-12,,4,11563,Cash,New,Karan Joshi,2.0,2026-04-10,
+WM20252064,Customer65,8242911821,Rajkot,Commercial Meter,No Display,2023-01-14,,4,4987,UPI,New,Manan Shah,2.0,2026-10-24,
+WM20252066,Customer67,7999829240,Jamnagar,Domestic Meter,Damaged Casing,2025-02-15,,1,23830,Net Banking,New,Karan Joshi,2.0,2026-11-28,
+WM20252068,Customer69,8632629719,Surat,Industrial Meter,,2024-07-18,Expired,3,18048,Credit Card,Existing,Viral Mehta,2.0,2026-01-08,
+WM20252069,Customer70,8193887545,Rajkot,Commercial Meter,Battery Issue,2023-12-06,Active,1,3862,Credit Card,Existing,,3.0,2025-08-18,
+WM20252070,Customer71,8947382419,Surat,Domestic Meter,,2023-04-02,Expired,0,21968,Net Banking,Existing,Rohit Patel,5.0,2026-11-24,
+WM20252075,Customer76,8525876051,Bhavnagar,Domestic Meter,,2025-02-14,,2,1397,Cash,New,Karan Joshi,2.0,2026-10-20,
+WM20252080,Customer81,9783290795,Ahmedabad,Industrial Meter,,2025-05-21,Active,4,11997,Net Banking,New,Pooja Desai,5.0,2025-08-06,
+WM20252081,Customer82,7306671447,Bhavnagar,Commercial Meter,Slow Reading,2024-01-23,Expired,4,16734,Cash,New,Rohit Patel,,2026-04-06,
+WM20252082,Customer83,9616197747,Surat,Commercial Meter,,2023-01-02,,5,7091,Credit Card,Existing,Manan Shah,4.0,2026-06-14,
+WM20252088,Customer89,8985392498,Surat,Commercial Meter,Leakage,2024-04-21,Expired,5,4114,UPI,Existing,,2.0,2026-01-07,
+WM20252094,Customer95,7943239974,Surat,Domestic Meter,,2023-07-21,Expired,2,11835,UPI,Existing,,2.0,2025-07-18,
+WM20252095,Customer96,9940395823,Bhavnagar,Industrial Meter,,2023-09-27,Active,2,21051,Net Banking,Existing,Karan Joshi,3.0,2026-05-19,
+WM20252096,Customer97,8392783743,Gandhinagar,Commercial Meter,,2025-05-12,Expired,2,5094,Cash,New,Pooja Desai,3.0,2026-04-14,
+WM20252098,Customer99,7983753977,Bhavnagar,Commercial Meter,,2023-09-28,Active,1,13144,Credit Card,Existing,Rohit Patel,4.0,2026-11-02,
+WM20252102,Customer103,8149938334,Bhavnagar,Commercial Meter,Damaged Casing,2023-09-09,Expired,3,23503,Cash,Existing,Pooja Desai,,2026-03-03,
+WM20252105,Customer106,9436019774,Vadodara,Commercial Meter,Slow Reading,2024-12-25,,5,24431,Net Banking,New,Rohit Patel,4.0,2026-10-20,
+WM20252109,Customer110,9144181937,Vadodara,Commercial Meter,,2025-05-28,Active,5,12737,UPI,New,Viral Mehta,1.0,2026-11-18,
+WM20252111,Customer112,9761027762,Bhavnagar,Domestic Meter,Leakage,2025-03-02,Active,1,24379,Cash,Existing,Pooja Desai,,2025-07-20,
+WM20252112,Customer113,8970753705,Ahmedabad,Domestic Meter,,2023-08-05,Expired,3,8583,Net Banking,Existing,Manan Shah,4.0,2026-05-17,
+WM20252113,Customer114,7613628803,Surat,Domestic Meter,,2025-02-02,Active,3,15355,Net Banking,New,Rohit Patel,5.0,2026-11-24,
+WM20252117,Customer118,9411057787,Jamnagar,Domestic Meter,,2023-02-10,Expired,2,8467,UPI,Existing,Karan Joshi,5.0,2025-09-30,
+WM20252119,Customer120,8128466620,Ahmedabad,Domestic Meter,,2023-01-15,,5,8637,Cash,New,Viral Mehta,2.0,2025-08-20,
+WM20252123,Customer124,8715412119,Surat,Commercial Meter,,2025-04-18,Expired,0,12853,UPI,New,Karan Joshi,3.0,2026-05-10,
+WM20252128,Customer129,9119634399,Vadodara,Domestic Meter,Leakage,2024-04-16,,0,10033,Credit Card,New,Viral Mehta,5.0,2026-03-21,
+WM20252130,Customer131,7202363285,Jamnagar,Commercial Meter,,2023-05-19,Expired,0,17279,Credit Card,New,Viral Mehta,4.0,2025-07-05,
+WM20252132,Customer133,7656448479,Gandhinagar,Industrial Meter,Battery Issue,2024-08-15,Expired,3,14518,Credit Card,Existing,,2.0,2026-01-12,
+WM20252134,Customer135,7687117441,Vadodara,Industrial Meter,,2024-11-05,,3,7343,Credit Card,New,Manan Shah,4.0,2025-08-16,
+WM20252137,Customer138,9561557300,Gandhinagar,Domestic Meter,,2024-01-14,Active,3,8992,UPI,New,Rohit Patel,4.0,2025-10-14,
+WM20252139,Customer140,8652563013,Jamnagar,Commercial Meter,,2024-05-04,Expired,2,21810,Credit Card,Existing,Manan Shah,2.0,2025-08-27,
+WM20252143,Customer144,9272528809,Rajkot,Industrial Meter,,2023-05-15,Expired,2,4161,Cash,Existing,Viral Mehta,3.0,2025-11-04,
+WM20252148,Customer149,7491995979,Vadodara,Commercial Meter,,2023-02-17,Expired,5,3548,Net Banking,New,Karan Joshi,5.0,2025-10-26,
+WM20252149,Customer150,9927923735,Vadodara,Domestic Meter,Leakage,2024-05-17,,4,6053,Credit Card,Existing,Pooja Desai,1.0,2026-10-31,
+WM20252150,Customer151,9306270004,Vadodara,Commercial Meter,,2024-02-11,,3,9738,Credit Card,Existing,Manan Shah,3.0,2026-02-22,
+WM20252151,Customer152,8146005448,Jamnagar,Commercial Meter,,2024-07-27,Active,4,15523,Net Banking,New,Rohit Patel,1.0,2026-03-29,
+WM20252153,Customer154,8461042543,Bhavnagar,Domestic Meter,,2025-03-15,Expired,2,5628,Net Banking,Existing,Pooja Desai,2.0,2026-09-20,
+WM20252156,Customer157,8867302554,Surat,Industrial Meter,,2025-05-21,,3,8075,Cash,Existing,,5.0,2025-12-01,
+WM20252166,Customer167,8281810600,Gandhinagar,Commercial Meter,Leakage,2024-05-17,Active,2,13453,Credit Card,Existing,Viral Mehta,,2026-02-03,
+WM20252167,Customer168,9744267175,Vadodara,Industrial Meter,Damaged Casing,2025-02-05,,0,3474,Credit Card,New,Rohit Patel,1.0,2026-10-17,
+WM20252168,Customer169,9180395476,Surat,Industrial Meter,,2024-02-02,Active,0,13085,Credit Card,Existing,Rohit Patel,2.0,2026-09-05,
+WM20252169,Customer170,9615507143,Ahmedabad,Industrial Meter,Calibration Error,2025-05-20,Expired,3,8157,Net Banking,Existing,,,2026-06-06,
+WM20252170,Customer171,7854316681,Jamnagar,Domestic Meter,Battery Issue,2025-03-05,Expired,5,1723,UPI,New,Viral Mehta,,2026-04-15,
+WM20252171,Customer172,7656439677,Ahmedabad,Domestic Meter,,2024-01-28,Active,3,11242,Credit Card,New,Pooja Desai,3.0,2026-03-11,
+WM20252176,Customer177,7002456273,Bhavnagar,Domestic Meter,Calibration Error,2024-04-05,Active,5,5585,Cash,Existing,,,2025-12-27,
+WM20252177,Customer178,9572447412,Gandhinagar,Domestic Meter,Slow Reading,2024-11-21,Expired,1,5308,Credit Card,Existing,,5.0,2026-02-08,
+WM20252179,Customer180,9098545541,Bhavnagar,Commercial Meter,,2025-05-13,Active,4,10200,UPI,New,Manan Shah,5.0,2026-05-21,
+WM20252180,Customer181,7083651970,Jamnagar,Commercial Meter,Damaged Casing,2025-01-12,,5,16281,UPI,Existing,Pooja Desai,5.0,2026-11-28,
+WM20252181,Customer182,7480468219,Ahmedabad,Domestic Meter,Leakage,2023-08-29,,2,23608,Cash,New,Manan Shah,1.0,2025-07-16,
+WM20252185,Customer186,7248786714,Gandhinagar,Commercial Meter,,2024-04-29,Active,0,15499,Net Banking,New,,5.0,2025-12-07,
+WM20252186,Customer187,8034535593,Gandhinagar,Commercial Meter,,2024-02-11,Expired,3,20963,UPI,New,,3.0,2026-10-18,
+WM20252190,Customer191,9087313121,Ahmedabad,Commercial Meter,,2023-06-20,Expired,2,9186,UPI,Existing,Karan Joshi,5.0,2026-03-25,
+WM20252192,Customer193,9287955558,Surat,Industrial Meter,Damaged Casing,2023-02-05,Expired,3,5699,Net Banking,New,Pooja Desai,,2025-12-15,
+WM20252193,Customer194,7540137296,Gandhinagar,Industrial Meter,,2024-06-08,Active,4,18783,Net Banking,New,Rohit Patel,1.0,2025-08-12,
+WM20252197,Customer198,9361388464,Gandhinagar,Industrial Meter,,2023-08-31,Expired,3,14669,Cash,Existing,Karan Joshi,4.0,2026-04-28,
+WM20252198,Customer199,7709214891,Jamnagar,Domestic Meter,Slow Reading,2023-03-27,Active,2,4443,Cash,New,Rohit Patel,,2026-03-10,
+WM20252199,Customer200,8138409539,Gandhinagar,Industrial Meter,,2025-03-06,Active,0,10240,Net Banking,New,Karan Joshi,3.0,2026-11-11,
+WM20252200,Customer201,9266341635,Ahmedabad,Domestic Meter,No Display,2024-07-31,Expired,3,8586,Net Banking,New,,1.0,2025-08-04,
+WM20252201,Customer202,9605301030,Surat,Domestic Meter,Leakage,2024-11-12,,0,10668,UPI,Existing,Manan Shah,4.0,2025-09-28,
+WM20252204,Customer205,9316259067,Jamnagar,Domestic Meter,,2024-10-07,Active,4,8613,Cash,New,,2.0,2026-01-12,
+WM20252208,Customer209,8713658874,Vadodara,Domestic Meter,,2024-07-09,Expired,0,15778,Net Banking,Existing,Karan Joshi,4.0,2026-08-17,
+WM20252210,Customer211,9791205006,Rajkot,Industrial Meter,,2025-03-08,Active,0,4432,Cash,New,Karan Joshi,5.0,2026-08-24,
+WM20252214,Customer215,8939118223,Rajkot,Commercial Meter,Calibration Error,2023-12-14,,3,1338,Credit Card,New,,1.0,2026-01-08,
+WM20252215,Customer216,7519709079,Surat,Industrial Meter,Slow Reading,2024-04-17,Expired,4,21507,Credit Card,New,Viral Mehta,,2025-10-07,
+WM20252217,Customer218,7965067727,Gandhinagar,Commercial Meter,Damaged Casing,2023-07-09,Active,3,19643,Credit Card,New,,5.0,2025-10-04,
+WM20252219,Customer220,8452066459,Gandhinagar,Industrial Meter,Battery Issue,2024-01-20,Active,5,24345,Net Banking,New,Pooja Desai,,2025-08-06,
+WM20252222,Customer223,9379074819,Vadodara,Industrial Meter,,2024-09-24,Expired,2,14865,Credit Card,New,Viral Mehta,3.0,2026-04-05,
+WM20252224,Customer225,9527331058,Ahmedabad,Domestic Meter,Battery Issue,2025-01-14,Expired,0,20946,Cash,New,Manan Shah,,2026-03-30,
+WM20252225,Customer226,7945826486,Rajkot,Commercial Meter,Leakage,2023-09-16,,4,12361,Net Banking,New,,5.0,2025-08-31,
+WM20252227,Customer228,7304912982,Surat,Industrial Meter,Calibration Error,2024-12-10,Expired,0,19499,Credit Card,Existing,Pooja Desai,,2026-08-01,
+WM20252235,Customer236,9208283728,Rajkot,Domestic Meter,,2023-08-22,Expired,1,3017,UPI,Existing,Viral Mehta,2.0,2026-09-28,
+WM20252236,Customer237,8022222125,Jamnagar,Domestic Meter,,2024-11-14,Active,1,18037,UPI,Existing,Pooja Desai,,2026-07-19,
+WM20252237,Customer238,8196050747,Gandhinagar,Industrial Meter,Battery Issue,2024-10-25,,0,18628,Net Banking,Existing,Rohit Patel,3.0,2026-11-18,
+WM20252238,Customer239,9873237671,Bhavnagar,Industrial Meter,Battery Issue,2025-04-06,,1,17424,Cash,Existing,Viral Mehta,2.0,2026-07-02,
+WM20252240,Customer241,7920140090,Vadodara,Domestic Meter,,2024-11-02,Active,1,18958,Cash,Existing,Rohit Patel,4.0,2025-09-07,
+WM20252242,Customer243,7568275055,Surat,Industrial Meter,,2024-04-16,Active,4,13594,Credit Card,New,Manan Shah,5.0,2026-07-31,
+WM20252246,Customer247,8043665192,Vadodara,Domestic Meter,,2025-04-09,Active,1,13477,UPI,Existing,Pooja Desai,4.0,2025-11-28,
+WM20252247,Customer248,9031403296,Vadodara,Industrial Meter,,2024-05-11,Active,5,13032,Credit Card,New,Manan Shah,1.0,2025-11-21,
+WM20252250,Customer251,7405126228,Surat,Industrial Meter,Battery Issue,2023-09-25,Active,4,12501,Net Banking,Existing,,5.0,2025-08-11,
+WM20252253,Customer254,8851350739,Surat,Commercial Meter,Slow Reading,2024-01-21,,5,8701,Net Banking,Existing,Karan Joshi,4.0,2026-02-08,
+WM20252257,Customer258,9005855667,Vadodara,Commercial Meter,,2024-09-16,Expired,4,4196,Credit Card,Existing,,1.0,2026-02-20,
+WM20252258,Customer259,7232663462,Rajkot,Domestic Meter,,2023-03-22,Active,2,19867,Credit Card,New,Pooja Desai,1.0,2025-07-09,
+WM20252262,Customer263,7422701550,Vadodara,Commercial Meter,Slow Reading,2024-10-03,Active,3,2252,Cash,New,Karan Joshi,,2026-02-15,
+WM20252264,Customer265,8729245242,Rajkot,Industrial Meter,Slow Reading,2024-07-19,Active,3,18691,Credit Card,Existing,,2.0,2025-12-21,
+WM20252268,Customer269,7822873088,Bhavnagar,Commercial Meter,,2024-01-20,Expired,2,23235,UPI,New,Manan Shah,3.0,2026-01-10,
+WM20252269,Customer270,7816941039,Jamnagar,Domestic Meter,,2024-02-07,Active,4,16024,Net Banking,New,Rohit Patel,,2026-11-29,
+WM20252274,Customer275,7788075126,Ahmedabad,Industrial Meter,Slow Reading,2024-12-30,Expired,2,5218,UPI,New,,2.0,2026-11-08,
+WM20252277,Customer278,8072910527,Vadodara,Commercial Meter,,2024-02-20,Active,0,15797,Credit Card,New,Pooja Desai,3.0,2026-11-12,
+WM20252278,Customer279,7323775634,Jamnagar,Commercial Meter,,2023-09-04,Expired,0,2011,Net Banking,Existing,Viral Mehta,1.0,2026-11-23,
+WM20252279,Customer280,8903232052,Surat,Industrial Meter,,2025-04-15,Active,2,10415,UPI,New,Pooja Desai,1.0,2026-05-23,
+WM20252281,Customer282,7420514789,Surat,Commercial Meter,Damaged Casing,2023-07-22,,0,2235,UPI,Existing,Rohit Patel,4.0,2026-04-27,
+WM20252287,Customer288,8015242176,Bhavnagar,Domestic Meter,,2023-10-07,Expired,3,13849,Credit Card,Existing,Manan Shah,1.0,2025-12-29,
+WM20252289,Customer290,8745535098,Jamnagar,Industrial Meter,,2024-09-01,Expired,4,16312,Net Banking,Existing,Pooja Desai,2.0,2025-09-29,
+WM20252291,Customer292,9067418686,Surat,Industrial Meter,,2024-05-25,Active,5,1999,UPI,Existing,Rohit Patel,3.0,2025-08-08,
+WM20252294,Customer295,7251837136,Surat,Domestic Meter,,2024-08-31,Active,4,10175,Credit Card,Existing,Pooja Desai,1.0,2025-12-20,
+WM20252295,Customer296,7707111048,Bhavnagar,Commercial Meter,Battery Issue,2023-07-20,Active,5,12497,Credit Card,Existing,Karan Joshi,,2026-02-05,
+WM20252297,Customer298,7009257255,Ahmedabad,Domestic Meter,Damaged Casing,2023-07-06,Expired,2,22287,UPI,Existing,Karan Joshi,,2026-10-19,
+WM20252299,Customer300,8139038460,Jamnagar,Domestic Meter,No Display,2024-04-08,Expired,3,9752,Credit Card,Existing,Pooja Desai,,2026-06-26,
+WM20252000,Customer1,9746317213,Gandhinagar,Commercial Meter,,2023-04-13,Expired,4,17228,Cash,Existing,Rohit Patel,5.0,2026-06-14,invalid_category_Issue_Reported
+WM20252001,Customer2,7478163327,Gandhinagar,Industrial Meter,,2024-03-11,Expired,4,5743,Credit Card,New,Karan Joshi,1.0,2026-08-07,invalid_category_Issue_Reported
+WM20252008,Customer9,9906402157,Bhavnagar,Industrial Meter,,2024-09-06,Expired,5,17333,Net Banking,Existing,,3.0,2026-10-16,invalid_category_Issue_Reported
+WM20252012,Customer13,8812140441,Ahmedabad,Domestic Meter,,2023-11-27,Active,4,8918,Cash,Existing,Viral Mehta,5.0,2026-03-20,invalid_category_Issue_Reported
+WM20252018,Customer19,9170484433,Jamnagar,Commercial Meter,,2024-10-25,Active,3,20782,Credit Card,Existing,,1.0,2026-09-26,invalid_category_Issue_Reported
+WM20252026,Customer27,7946785248,Rajkot,Domestic Meter,,2025-03-16,,3,23046,UPI,Existing,Manan Shah,2.0,2026-08-08,invalid_category_Issue_Reported
+WM20252029,Customer30,8194819984,Bhavnagar,Commercial Meter,,2023-10-04,Active,2,21472,Net Banking,New,Karan Joshi,4.0,2025-10-28,invalid_category_Issue_Reported
+WM20252054,Customer55,8259191105,Bhavnagar,Industrial Meter,,2024-04-29,Expired,5,13643,Net Banking,New,Rohit Patel,4.0,2025-07-22,invalid_category_Issue_Reported
+WM20252060,Customer61,7298737106,Jamnagar,Industrial Meter,,2023-10-01,Expired,2,19114,Credit Card,Existing,Rohit Patel,1.0,2025-07-27,invalid_category_Issue_Reported
+WM20252068,Customer69,8632629719,Surat,Industrial Meter,,2024-07-18,Expired,3,18048,Credit Card,Existing,Viral Mehta,2.0,2026-01-08,invalid_category_Issue_Reported
+WM20252070,Customer71,8947382419,Surat,Domestic Meter,,2023-04-02,Expired,0,21968,Net Banking,Existing,Rohit Patel,5.0,2026-11-24,invalid_category_Issue_Reported
+WM20252075,Customer76,8525876051,Bhavnagar,Domestic Meter,,2025-02-14,,2,1397,Cash,New,Karan Joshi,2.0,2026-10-20,invalid_category_Issue_Reported
+WM20252080,Customer81,9783290795,Ahmedabad,Industrial Meter,,2025-05-21,Active,4,11997,Net Banking,New,Pooja Desai,5.0,2025-08-06,invalid_category_Issue_Reported
+WM20252082,Customer83,9616197747,Surat,Commercial Meter,,2023-01-02,,5,7091,Credit Card,Existing,Manan Shah,4.0,2026-06-14,invalid_category_Issue_Reported
+WM20252094,Customer95,7943239974,Surat,Domestic Meter,,2023-07-21,Expired,2,11835,UPI,Existing,,2.0,2025-07-18,invalid_category_Issue_Reported
+WM20252095,Customer96,9940395823,Bhavnagar,Industrial Meter,,2023-09-27,Active,2,21051,Net Banking,Existing,Karan Joshi,3.0,2026-05-19,invalid_category_Issue_Reported
+WM20252096,Customer97,8392783743,Gandhinagar,Commercial Meter,,2025-05-12,Expired,2,5094,Cash,New,Pooja Desai,3.0,2026-04-14,invalid_category_Issue_Reported
+WM20252098,Customer99,7983753977,Bhavnagar,Commercial Meter,,2023-09-28,Active,1,13144,Credit Card,Existing,Rohit Patel,4.0,2026-11-02,invalid_category_Issue_Reported
+WM20252109,Customer110,9144181937,Vadodara,Commercial Meter,,2025-05-28,Active,5,12737,UPI,New,Viral Mehta,1.0,2026-11-18,invalid_category_Issue_Reported
+WM20252112,Customer113,8970753705,Ahmedabad,Domestic Meter,,2023-08-05,Expired,3,8583,Net Banking,Existing,Manan Shah,4.0,2026-05-17,invalid_category_Issue_Reported
+WM20252113,Customer114,7613628803,Surat,Domestic Meter,,2025-02-02,Active,3,15355,Net Banking,New,Rohit Patel,5.0,2026-11-24,invalid_category_Issue_Reported
+WM20252117,Customer118,9411057787,Jamnagar,Domestic Meter,,2023-02-10,Expired,2,8467,UPI,Existing,Karan Joshi,5.0,2025-09-30,invalid_category_Issue_Reported
+WM20252119,Customer120,8128466620,Ahmedabad,Domestic Meter,,2023-01-15,,5,8637,Cash,New,Viral Mehta,2.0,2025-08-20,invalid_category_Issue_Reported
+WM20252123,Customer124,8715412119,Surat,Commercial Meter,,2025-04-18,Expired,0,12853,UPI,New,Karan Joshi,3.0,2026-05-10,invalid_category_Issue_Reported
+WM20252130,Customer131,7202363285,Jamnagar,Commercial Meter,,2023-05-19,Expired,0,17279,Credit Card,New,Viral Mehta,4.0,2025-07-05,invalid_category_Issue_Reported
+WM20252134,Customer135,7687117441,Vadodara,Industrial Meter,,2024-11-05,,3,7343,Credit Card,New,Manan Shah,4.0,2025-08-16,invalid_category_Issue_Reported
+WM20252137,Customer138,9561557300,Gandhinagar,Domestic Meter,,2024-01-14,Active,3,8992,UPI,New,Rohit Patel,4.0,2025-10-14,invalid_category_Issue_Reported
+WM20252139,Customer140,8652563013,Jamnagar,Commercial Meter,,2024-05-04,Expired,2,21810,Credit Card,Existing,Manan Shah,2.0,2025-08-27,invalid_category_Issue_Reported
+WM20252143,Customer144,9272528809,Rajkot,Industrial Meter,,2023-05-15,Expired,2,4161,Cash,Existing,Viral Mehta,3.0,2025-11-04,invalid_category_Issue_Reported
+WM20252148,Customer149,7491995979,Vadodara,Commercial Meter,,2023-02-17,Expired,5,3548,Net Banking,New,Karan Joshi,5.0,2025-10-26,invalid_category_Issue_Reported
+WM20252150,Customer151,9306270004,Vadodara,Commercial Meter,,2024-02-11,,3,9738,Credit Card,Existing,Manan Shah,3.0,2026-02-22,invalid_category_Issue_Reported
+WM20252151,Customer152,8146005448,Jamnagar,Commercial Meter,,2024-07-27,Active,4,15523,Net Banking,New,Rohit Patel,1.0,2026-03-29,invalid_category_Issue_Reported
+WM20252153,Customer154,8461042543,Bhavnagar,Domestic Meter,,2025-03-15,Expired,2,5628,Net Banking,Existing,Pooja Desai,2.0,2026-09-20,invalid_category_Issue_Reported
+WM20252156,Customer157,8867302554,Surat,Industrial Meter,,2025-05-21,,3,8075,Cash,Existing,,5.0,2025-12-01,invalid_category_Issue_Reported
+WM20252168,Customer169,9180395476,Surat,Industrial Meter,,2024-02-02,Active,0,13085,Credit Card,Existing,Rohit Patel,2.0,2026-09-05,invalid_category_Issue_Reported
+WM20252171,Customer172,7656439677,Ahmedabad,Domestic Meter,,2024-01-28,Active,3,11242,Credit Card,New,Pooja Desai,3.0,2026-03-11,invalid_category_Issue_Reported
+WM20252179,Customer180,9098545541,Bhavnagar,Commercial Meter,,2025-05-13,Active,4,10200,UPI,New,Manan Shah,5.0,2026-05-21,invalid_category_Issue_Reported
+WM20252185,Customer186,7248786714,Gandhinagar,Commercial Meter,,2024-04-29,Active,0,15499,Net Banking,New,,5.0,2025-12-07,invalid_category_Issue_Reported
+WM20252186,Customer187,8034535593,Gandhinagar,Commercial Meter,,2024-02-11,Expired,3,20963,UPI,New,,3.0,2026-10-18,invalid_category_Issue_Reported
+WM20252190,Customer191,9087313121,Ahmedabad,Commercial Meter,,2023-06-20,Expired,2,9186,UPI,Existing,Karan Joshi,5.0,2026-03-25,invalid_category_Issue_Reported
+WM20252193,Customer194,7540137296,Gandhinagar,Industrial Meter,,2024-06-08,Active,4,18783,Net Banking,New,Rohit Patel,1.0,2025-08-12,invalid_category_Issue_Reported
+WM20252197,Customer198,9361388464,Gandhinagar,Industrial Meter,,2023-08-31,Expired,3,14669,Cash,Existing,Karan Joshi,4.0,2026-04-28,invalid_category_Issue_Reported
+WM20252199,Customer200,8138409539,Gandhinagar,Industrial Meter,,2025-03-06,Active,0,10240,Net Banking,New,Karan Joshi,3.0,2026-11-11,invalid_category_Issue_Reported
+WM20252204,Customer205,9316259067,Jamnagar,Domestic Meter,,2024-10-07,Active,4,8613,Cash,New,,2.0,2026-01-12,invalid_category_Issue_Reported
+WM20252208,Customer209,8713658874,Vadodara,Domestic Meter,,2024-07-09,Expired,0,15778,Net Banking,Existing,Karan Joshi,4.0,2026-08-17,invalid_category_Issue_Reported
+WM20252210,Customer211,9791205006,Rajkot,Industrial Meter,,2025-03-08,Active,0,4432,Cash,New,Karan Joshi,5.0,2026-08-24,invalid_category_Issue_Reported
+WM20252222,Customer223,9379074819,Vadodara,Industrial Meter,,2024-09-24,Expired,2,14865,Credit Card,New,Viral Mehta,3.0,2026-04-05,invalid_category_Issue_Reported
+WM20252235,Customer236,9208283728,Rajkot,Domestic Meter,,2023-08-22,Expired,1,3017,UPI,Existing,Viral Mehta,2.0,2026-09-28,invalid_category_Issue_Reported
+WM20252236,Customer237,8022222125,Jamnagar,Domestic Meter,,2024-11-14,Active,1,18037,UPI,Existing,Pooja Desai,,2026-07-19,invalid_category_Issue_Reported
+WM20252240,Customer241,7920140090,Vadodara,Domestic Meter,,2024-11-02,Active,1,18958,Cash,Existing,Rohit Patel,4.0,2025-09-07,invalid_category_Issue_Reported
+WM20252242,Customer243,7568275055,Surat,Industrial Meter,,2024-04-16,Active,4,13594,Credit Card,New,Manan Shah,5.0,2026-07-31,invalid_category_Issue_Reported
+WM20252246,Customer247,8043665192,Vadodara,Domestic Meter,,2025-04-09,Active,1,13477,UPI,Existing,Pooja Desai,4.0,2025-11-28,invalid_category_Issue_Reported
+WM20252247,Customer248,9031403296,Vadodara,Industrial Meter,,2024-05-11,Active,5,13032,Credit Card,New,Manan Shah,1.0,2025-11-21,invalid_category_Issue_Reported
+WM20252257,Customer258,9005855667,Vadodara,Commercial Meter,,2024-09-16,Expired,4,4196,Credit Card,Existing,,1.0,2026-02-20,invalid_category_Issue_Reported
+WM20252258,Customer259,7232663462,Rajkot,Domestic Meter,,2023-03-22,Active,2,19867,Credit Card,New,Pooja Desai,1.0,2025-07-09,invalid_category_Issue_Reported
+WM20252268,Customer269,7822873088,Bhavnagar,Commercial Meter,,2024-01-20,Expired,2,23235,UPI,New,Manan Shah,3.0,2026-01-10,invalid_category_Issue_Reported
+WM20252269,Customer270,7816941039,Jamnagar,Domestic Meter,,2024-02-07,Active,4,16024,Net Banking,New,Rohit Patel,,2026-11-29,invalid_category_Issue_Reported
+WM20252277,Customer278,8072910527,Vadodara,Commercial Meter,,2024-02-20,Active,0,15797,Credit Card,New,Pooja Desai,3.0,2026-11-12,invalid_category_Issue_Reported
+WM20252278,Customer279,7323775634,Jamnagar,Commercial Meter,,2023-09-04,Expired,0,2011,Net Banking,Existing,Viral Mehta,1.0,2026-11-23,invalid_category_Issue_Reported
+WM20252279,Customer280,8903232052,Surat,Industrial Meter,,2025-04-15,Active,2,10415,UPI,New,Pooja Desai,1.0,2026-05-23,invalid_category_Issue_Reported
+WM20252287,Customer288,8015242176,Bhavnagar,Domestic Meter,,2023-10-07,Expired,3,13849,Credit Card,Existing,Manan Shah,1.0,2025-12-29,invalid_category_Issue_Reported
+WM20252289,Customer290,8745535098,Jamnagar,Industrial Meter,,2024-09-01,Expired,4,16312,Net Banking,Existing,Pooja Desai,2.0,2025-09-29,invalid_category_Issue_Reported
+WM20252291,Customer292,9067418686,Surat,Industrial Meter,,2024-05-25,Active,5,1999,UPI,Existing,Rohit Patel,3.0,2025-08-08,invalid_category_Issue_Reported
+WM20252294,Customer295,7251837136,Surat,Domestic Meter,,2024-08-31,Active,4,10175,Credit Card,Existing,Pooja Desai,1.0,2025-12-20,invalid_category_Issue_Reported
+WM20252015,Customer16,7402418010,Ahmedabad,Industrial Meter,Damaged Casing,2024-01-08,,3,15198,Net Banking,New,Pooja Desai,,2025-07-02,invalid_category_Warranty_Status
+WM20252024,Customer25,9340505846,Vadodara,Commercial Meter,Damaged Casing,2024-05-06,,0,14194,Net Banking,New,Pooja Desai,5.0,2026-01-24,invalid_category_Warranty_Status
+WM20252026,Customer27,7946785248,Rajkot,Domestic Meter,,2025-03-16,,3,23046,UPI,Existing,Manan Shah,2.0,2026-08-08,invalid_category_Warranty_Status
+WM20252063,Customer64,7978815630,Surat,Domestic Meter,No Display,2023-11-12,,4,11563,Cash,New,Karan Joshi,2.0,2026-04-10,invalid_category_Warranty_Status
+WM20252064,Customer65,8242911821,Rajkot,Commercial Meter,No Display,2023-01-14,,4,4987,UPI,New,Manan Shah,2.0,2026-10-24,invalid_category_Warranty_Status
+WM20252066,Customer67,7999829240,Jamnagar,Domestic Meter,Damaged Casing,2025-02-15,,1,23830,Net Banking,New,Karan Joshi,2.0,2026-11-28,invalid_category_Warranty_Status
+WM20252075,Customer76,8525876051,Bhavnagar,Domestic Meter,,2025-02-14,,2,1397,Cash,New,Karan Joshi,2.0,2026-10-20,invalid_category_Warranty_Status
+WM20252082,Customer83,9616197747,Surat,Commercial Meter,,2023-01-02,,5,7091,Credit Card,Existing,Manan Shah,4.0,2026-06-14,invalid_category_Warranty_Status
+WM20252105,Customer106,9436019774,Vadodara,Commercial Meter,Slow Reading,2024-12-25,,5,24431,Net Banking,New,Rohit Patel,4.0,2026-10-20,invalid_category_Warranty_Status
+WM20252119,Customer120,8128466620,Ahmedabad,Domestic Meter,,2023-01-15,,5,8637,Cash,New,Viral Mehta,2.0,2025-08-20,invalid_category_Warranty_Status
+WM20252128,Customer129,9119634399,Vadodara,Domestic Meter,Leakage,2024-04-16,,0,10033,Credit Card,New,Viral Mehta,5.0,2026-03-21,invalid_category_Warranty_Status
+WM20252134,Customer135,7687117441,Vadodara,Industrial Meter,,2024-11-05,,3,7343,Credit Card,New,Manan Shah,4.0,2025-08-16,invalid_category_Warranty_Status
+WM20252149,Customer150,9927923735,Vadodara,Domestic Meter,Leakage,2024-05-17,,4,6053,Credit Card,Existing,Pooja Desai,1.0,2026-10-31,invalid_category_Warranty_Status
+WM20252150,Customer151,9306270004,Vadodara,Commercial Meter,,2024-02-11,,3,9738,Credit Card,Existing,Manan Shah,3.0,2026-02-22,invalid_category_Warranty_Status
+WM20252156,Customer157,8867302554,Surat,Industrial Meter,,2025-05-21,,3,8075,Cash,Existing,,5.0,2025-12-01,invalid_category_Warranty_Status
+WM20252167,Customer168,9744267175,Vadodara,Industrial Meter,Damaged Casing,2025-02-05,,0,3474,Credit Card,New,Rohit Patel,1.0,2026-10-17,invalid_category_Warranty_Status
+WM20252180,Customer181,7083651970,Jamnagar,Commercial Meter,Damaged Casing,2025-01-12,,5,16281,UPI,Existing,Pooja Desai,5.0,2026-11-28,invalid_category_Warranty_Status
+WM20252181,Customer182,7480468219,Ahmedabad,Domestic Meter,Leakage,2023-08-29,,2,23608,Cash,New,Manan Shah,1.0,2025-07-16,invalid_category_Warranty_Status
+WM20252201,Customer202,9605301030,Surat,Domestic Meter,Leakage,2024-11-12,,0,10668,UPI,Existing,Manan Shah,4.0,2025-09-28,invalid_category_Warranty_Status
+WM20252214,Customer215,8939118223,Rajkot,Commercial Meter,Calibration Error,2023-12-14,,3,1338,Credit Card,New,,1.0,2026-01-08,invalid_category_Warranty_Status
+WM20252225,Customer226,7945826486,Rajkot,Commercial Meter,Leakage,2023-09-16,,4,12361,Net Banking,New,,5.0,2025-08-31,invalid_category_Warranty_Status
+WM20252237,Customer238,8196050747,Gandhinagar,Industrial Meter,Battery Issue,2024-10-25,,0,18628,Net Banking,Existing,Rohit Patel,3.0,2026-11-18,invalid_category_Warranty_Status
+WM20252238,Customer239,9873237671,Bhavnagar,Industrial Meter,Battery Issue,2025-04-06,,1,17424,Cash,Existing,Viral Mehta,2.0,2026-07-02,invalid_category_Warranty_Status
+WM20252253,Customer254,8851350739,Surat,Commercial Meter,Slow Reading,2024-01-21,,5,8701,Net Banking,Existing,Karan Joshi,4.0,2026-02-08,invalid_category_Warranty_Status
+WM20252281,Customer282,7420514789,Surat,Commercial Meter,Damaged Casing,2023-07-22,,0,2235,UPI,Existing,Rohit Patel,4.0,2026-04-27,invalid_category_Warranty_Status
+WM20252006,Customer7,7599310825,Jamnagar,Commercial Meter,Calibration Error,2024-12-01,Active,3,24206,Credit Card,Existing,,1.0,2026-11-01,invalid_category_Service_Engineer
+WM20252008,Customer9,9906402157,Bhavnagar,Industrial Meter,,2024-09-06,Expired,5,17333,Net Banking,Existing,,3.0,2026-10-16,invalid_category_Service_Engineer
+WM20252017,Customer18,7999270936,Bhavnagar,Commercial Meter,Battery Issue,2025-05-21,Active,1,17929,Credit Card,New,,1.0,2026-03-11,invalid_category_Service_Engineer
+WM20252018,Customer19,9170484433,Jamnagar,Commercial Meter,,2024-10-25,Active,3,20782,Credit Card,Existing,,1.0,2026-09-26,invalid_category_Service_Engineer
+WM20252019,Customer20,9585650756,Bhavnagar,Commercial Meter,No Display,2023-05-11,Active,2,6001,Cash,New,,3.0,2025-08-06,invalid_category_Service_Engineer
+WM20252038,Customer39,8445662585,Vadodara,Commercial Meter,Damaged Casing,2024-04-19,Expired,3,10110,UPI,Existing,,3.0,2025-10-07,invalid_category_Service_Engineer
+WM20252039,Customer40,7438989805,Jamnagar,Domestic Meter,Battery Issue,2023-02-28,Expired,0,9057,Cash,Existing,,4.0,2025-11-30,invalid_category_Service_Engineer
+WM20252069,Customer70,8193887545,Rajkot,Commercial Meter,Battery Issue,2023-12-06,Active,1,3862,Credit Card,Existing,,3.0,2025-08-18,invalid_category_Service_Engineer
+WM20252088,Customer89,8985392498,Surat,Commercial Meter,Leakage,2024-04-21,Expired,5,4114,UPI,Existing,,2.0,2026-01-07,invalid_category_Service_Engineer
+WM20252094,Customer95,7943239974,Surat,Domestic Meter,,2023-07-21,Expired,2,11835,UPI,Existing,,2.0,2025-07-18,invalid_category_Service_Engineer
+WM20252132,Customer133,7656448479,Gandhinagar,Industrial Meter,Battery Issue,2024-08-15,Expired,3,14518,Credit Card,Existing,,2.0,2026-01-12,invalid_category_Service_Engineer
+WM20252156,Customer157,8867302554,Surat,Industrial Meter,,2025-05-21,,3,8075,Cash,Existing,,5.0,2025-12-01,invalid_category_Service_Engineer
+WM20252169,Customer170,9615507143,Ahmedabad,Industrial Meter,Calibration Error,2025-05-20,Expired,3,8157,Net Banking,Existing,,,2026-06-06,invalid_category_Service_Engineer
+WM20252176,Customer177,7002456273,Bhavnagar,Domestic Meter,Calibration Error,2024-04-05,Active,5,5585,Cash,Existing,,,2025-12-27,invalid_category_Service_Engineer
+WM20252177,Customer178,9572447412,Gandhinagar,Domestic Meter,Slow Reading,2024-11-21,Expired,1,5308,Credit Card,Existing,,5.0,2026-02-08,invalid_category_Service_Engineer
+WM20252185,Customer186,7248786714,Gandhinagar,Commercial Meter,,2024-04-29,Active,0,15499,Net Banking,New,,5.0,2025-12-07,invalid_category_Service_Engineer
+WM20252186,Customer187,8034535593,Gandhinagar,Commercial Meter,,2024-02-11,Expired,3,20963,UPI,New,,3.0,2026-10-18,invalid_category_Service_Engineer
+WM20252200,Customer201,9266341635,Ahmedabad,Domestic Meter,No Display,2024-07-31,Expired,3,8586,Net Banking,New,,1.0,2025-08-04,invalid_category_Service_Engineer
+WM20252204,Customer205,9316259067,Jamnagar,Domestic Meter,,2024-10-07,Active,4,8613,Cash,New,,2.0,2026-01-12,invalid_category_Service_Engineer
+WM20252214,Customer215,8939118223,Rajkot,Commercial Meter,Calibration Error,2023-12-14,,3,1338,Credit Card,New,,1.0,2026-01-08,invalid_category_Service_Engineer
+WM20252217,Customer218,7965067727,Gandhinagar,Commercial Meter,Damaged Casing,2023-07-09,Active,3,19643,Credit Card,New,,5.0,2025-10-04,invalid_category_Service_Engineer
+WM20252225,Customer226,7945826486,Rajkot,Commercial Meter,Leakage,2023-09-16,,4,12361,Net Banking,New,,5.0,2025-08-31,invalid_category_Service_Engineer
+WM20252250,Customer251,7405126228,Surat,Industrial Meter,Battery Issue,2023-09-25,Active,4,12501,Net Banking,Existing,,5.0,2025-08-11,invalid_category_Service_Engineer
+WM20252257,Customer258,9005855667,Vadodara,Commercial Meter,,2024-09-16,Expired,4,4196,Credit Card,Existing,,1.0,2026-02-20,invalid_category_Service_Engineer
+WM20252264,Customer265,8729245242,Rajkot,Industrial Meter,Slow Reading,2024-07-19,Active,3,18691,Credit Card,Existing,,2.0,2025-12-21,invalid_category_Service_Engineer
+WM20252274,Customer275,7788075126,Ahmedabad,Industrial Meter,Slow Reading,2024-12-30,Expired,2,5218,UPI,New,,2.0,2026-11-08,invalid_category_Service_Engineer
+,,9840104345,,,,,,0,21885,,,,1.0,,ML_anomaly
+,,9436779490,,,,,,0,972,,,,5.0,,ML_anomaly
+,,7323775634,,,,,,0,2011,,,,1.0,,ML_anomaly
+,,7027911967,,,,,,2,22010,,,,4.0,,ML_anomaly
+,,7013938521,,,,,,0,1673,,,,4.0,,ML_anomaly
+,,7030884438,,,,,,5,8682,,,,3.0,,ML_anomaly

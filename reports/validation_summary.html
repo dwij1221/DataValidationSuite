@@ -1,0 +1,26 @@
+<html><head><title>Validation Report</title></head><body><h1>Data Validation Report</h1>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+    body { font-family: 'Poppins', sans-serif; margin:20px; background-color:#fefefe; color:#333; }
+    h1 { text-align:center; color:#5D5FEF; margin-bottom:30px; }
+    h2 { font-size:18px; margin-bottom:10px; color:#3A3A3A; }
+    .grid-container { 
+        display: grid; 
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+        gap: 20px; 
+    }
+    .grid-item { 
+        background-color:#FAFAFA; 
+        padding:15px; 
+        border-radius:12px; 
+        box-shadow: 0 4px 8px rgba(0,0,0,0.05); 
+        transition: transform 0.2s, box-shadow 0.2s; 
+    }
+    .grid-item:hover { 
+        transform: translateY(-3px); 
+        box-shadow: 0 8px 16px rgba(0,0,0,0.1); 
+    }
+    p { font-size:14px; color:#555; }
+    iframe { width:100%; height:300px; border-radius:10px; border:none; }
+    </style>
+    <div class="grid-container"><div class="grid-item"><h2>Missing Values</h2><p>No missing values found.</p></div><div class="grid-item"><h2>Duplicate Rows</h2><p>No duplicates found.</p></div><div class="grid-item"><h2>Revenue Mismatch</h2><p>No revenue mismatch found.</p></div><div class="grid-item"><h2>Category Validation</h2><p>All categories are valid.</p></div><div class="grid-item"><h2>Outliers (units_sold<=1000)</h2><p>No outliers found.</p></div><div class="grid-item"><h2>Negative Revenue</h2><p>No negative revenue found.</p></div><div class="grid-item"><h2>ML Anomaly Detection</h2><p>2 anomalies detected.</p></div></div></body></html>
